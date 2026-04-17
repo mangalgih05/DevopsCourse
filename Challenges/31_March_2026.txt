@@ -1,0 +1,10 @@
+@channel :rocket: R&D Challenge
+As part of our R&D exercise, set up a single EC2 instance using Amazon Linux and configure the following services:
+Install Docker
+Install Jenkins
+Install Apache (httpd)
+Install Nginx
+Install Apache Tomcat
+:point_right: Ensure all services are properly installed, configured, and running on the same EC2 instance.
+:point_right: You may change port numbers as needed to avoid conflicts.
+Good luck :+1:

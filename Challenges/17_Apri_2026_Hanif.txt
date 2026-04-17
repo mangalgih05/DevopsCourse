@@ -1,0 +1,10 @@
+@channel Start working on the below challenge.
+Notes: Create a Jira ticket for this assignment, work on the tasks listed below, and submit the challenge completion document by EOD with clear steps and required evidence (outputs/screenshots).
+Use Case: Setting up Transit Gateway and VPC Endpoints for a Multi-VPC Architecture
+Scenario:
+A large organization is migrating its on-premises infrastructure to the AWS cloud.
+The organization's architecture involves multiple VPCs for different departments and applications, each requiring secure communication with centralized services and external resources.
+The IT team needs to design and implement a scalable and efficient network architecture to accommodate the organization's growth and ensure robust connectivity between VPCs and external services.
+Objectives:
+Design and deploy a scalable network architecture using AWS Transit Gateway to simplify network connectivity between multiple VPCs.
+Configure VPC endpoints to securely access AWS services without internet gateways or NAT gateways, ensuring data privacy and minimizing exposure to external threats.

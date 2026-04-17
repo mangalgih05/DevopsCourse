@@ -1,0 +1,12 @@
+@channel Start working on Below challenge.
+Notes: Create a Jira ticket for this assignment, work on the tasks listed below, and submit the challenge completion document by EOD with clear steps and required evidence (outputs/screenshots).
+First Challenge
+Launch one EC2 instance using Amazon Linux 2.
+ Install Docker.
+Install Jenkins.
+Install Apache. (httpd)
+Install Nginx.
+Install Apache Tomcat.
+Everything needs to be setup and running on the same EC2.
+You can change the port numbers as required.
+Need to complete this before logging off.
